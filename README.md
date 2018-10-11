@@ -1,2 +1,3 @@
 # hello-world
-Fot learning
+For learning
+first time git hub project for learning.
